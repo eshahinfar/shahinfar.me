@@ -2,7 +2,8 @@
 
 Personal portfolio and résumé site for Ehsan Shahinfar — a static site with no build step.
 
-- `index.html` — all content
+- `index.html` — English content
+- `de/index.html` — German content (keep in sync with the English page)
 - `styles.css` — styling (light/dark themes, responsive, print-friendly)
 - `script.js` — theme toggle and navigation highlighting
 

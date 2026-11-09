@@ -97,6 +97,15 @@ nav { margin-left: auto; min-width: 0; }
 }
 .nav a:hover, .nav a[aria-current="true"] { color: var(--ink); }
 .nav a[aria-current="true"] { box-shadow: inset 0 -2px 0 var(--accent); }
+.lang { display: flex; flex: none; border: 1px solid var(--line); }
+.lang a {
+  padding: 7px 8px; color: var(--muted); text-decoration: none;
+  font: 500 0.72rem/1 var(--mono); letter-spacing: 0.06em;
+}
+.lang a + a { border-left: 1px solid var(--line); }
+.lang a:hover { color: var(--ink); }
+.lang a[aria-current="page"] { background: var(--ink); color: var(--bg); }
+html[lang="de"] .card, html[lang="de"] .what, html[lang="de"] .hero-text { hyphens: auto; }
 .theme-toggle {
   display: grid; place-items: center; flex: none;
   width: 36px; height: 36px; padding: 0;
@@ -279,7 +288,7 @@ h3 { font-size: 1.15rem; line-height: 1.3; font-weight: 600; letter-spacing: -0.
 /* ---------- Print: a clean CV ---------- */
 @media print {
   :root { --bg: #fff; --bg-alt: #fff; --surface: #fff; --ink: #000; --muted: #333; --line: #bbb; --accent: #1d4f91; }
-  .site-header, .theme-toggle, .cta, .drawing, .site-footer a, .skip { display: none !important; }
+  .site-header, .theme-toggle, .lang, .cta, .drawing, .site-footer a, .skip { display: none !important; }
   .hero { background: none; padding-block: 0 16px; }
   .hero-grid { grid-template-columns: 1fr; }
   .section { padding-block: 18px; }
