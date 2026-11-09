@@ -7,10 +7,22 @@
       "tag": "EPC Project · SAFA FOULAD Co.",
       "summary": "Mechanical design for a paper production plant delivered as an EPC project: equipment and conveyor design, the plant process flow diagram, the dedusting system and the full set of engineering documents.",
       "facts": [
-        ["Company", "SAFA FOULAD Co., Iran"],
-        ["Role", "Mechanical Engineer / Head of Technical Office"],
-        ["Role period", "Apr 2017 – 2026"],
-        ["Project type", "EPC project"]
+        [
+          "Company",
+          "SAFA FOULAD Co., Iran"
+        ],
+        [
+          "Role",
+          "Mechanical Engineer / Head of Technical Office"
+        ],
+        [
+          "Role period",
+          "Apr 2017 – 2026"
+        ],
+        [
+          "Project type",
+          "EPC project"
+        ]
       ],
       "scope": [
         "Mechanical equipment design and preparation of detailed engineering drawings.",
@@ -20,7 +32,12 @@
         "Designed the plant dedusting system, including ducting and cyclones.",
         "Prepared technical project documentation, including datasheets, MRQs, MDR and related engineering documents."
       ],
-      "chips": ["Conveyor design", "PFD", "Dedusting", "Plant layout"],
+      "chips": [
+        "Conveyor design",
+        "PFD",
+        "Dedusting",
+        "Plant layout"
+      ],
       "sections": []
     },
     "de": {
@@ -28,10 +45,22 @@
       "tag": "EPC-Projekt · SAFA FOULAD Co.",
       "summary": "Mechanische Konstruktion für eine Papierfabrik im Rahmen eines EPC-Projekts: Ausrüstungs- und Förderanlagenkonstruktion, Verfahrensfließbild der Anlage, Entstaubungsanlage und die vollständige Engineering-Dokumentation.",
       "facts": [
-        ["Unternehmen", "SAFA FOULAD Co., Iran"],
-        ["Position", "Maschinenbauingenieur / Leiter des Technischen Büros"],
-        ["Zeitraum der Position", "Apr. 2017 – 2026"],
-        ["Projektart", "EPC-Projekt"]
+        [
+          "Unternehmen",
+          "SAFA FOULAD Co., Iran"
+        ],
+        [
+          "Position",
+          "Maschinenbauingenieur / Leiter des Technischen Büros"
+        ],
+        [
+          "Zeitraum der Position",
+          "Apr. 2017 – 2026"
+        ],
+        [
+          "Projektart",
+          "EPC-Projekt"
+        ]
       ],
       "scope": [
         "Konstruktion mechanischer Ausrüstung und Erstellung detaillierter Fertigungszeichnungen.",
@@ -41,7 +70,12 @@
         "Auslegung der Entstaubungsanlage einschließlich Rohrleitungen und Zyklonen.",
         "Erstellung der technischen Projektdokumentation: Datenblätter, MRQs, MDR und weitere Engineering-Unterlagen."
       ],
-      "chips": ["Förderanlagen", "PFD", "Entstaubung", "Anlagenlayout"],
+      "chips": [
+        "Förderanlagen",
+        "PFD",
+        "Entstaubung",
+        "Anlagenlayout"
+      ],
       "sections": []
     },
     "images": []
@@ -54,11 +88,26 @@
       "tag": "EPC Project · In association with Danieli",
       "summary": "Erection, commissioning and renovation work across the steelmaking plant, thin slab caster and hot strip mill during the expansion of SABA Steel, carried out in association with Danieli.",
       "facts": [
-        ["Company", "SAFA FOULAD Co., Iran"],
-        ["Role", "Mechanical Engineer / Head of Technical Office"],
-        ["Role period", "Apr 2017 – 2026"],
-        ["Project type", "EPC project"],
-        ["Partner", "Danieli"]
+        [
+          "Company",
+          "SAFA FOULAD Co., Iran"
+        ],
+        [
+          "Role",
+          "Mechanical Engineer / Head of Technical Office"
+        ],
+        [
+          "Role period",
+          "Apr 2017 – 2026"
+        ],
+        [
+          "Project type",
+          "EPC project"
+        ],
+        [
+          "Partner",
+          "Danieli"
+        ]
       ],
       "scope": [
         "Led renovation projects for Steelmaking, Thin Slab Caster and Hot Strip Mill facilities.",
@@ -69,7 +118,12 @@
         "Thin Slab Caster: mold and segment preparation, oscillator installation, tundish pre-heater installation, renovation and banana-frame adjustment.",
         "Hot Strip Mill: descaling pump installation and commissioning and addition of the seventh mill stand."
       ],
-      "chips": ["Steelmaking", "Hydraulics", "Commissioning", "Renovation"],
+      "chips": [
+        "Steelmaking",
+        "Hydraulics",
+        "Commissioning",
+        "Renovation"
+      ],
       "sections": []
     },
     "de": {
@@ -77,11 +131,26 @@
       "tag": "EPC-Projekt · In Zusammenarbeit mit Danieli",
       "summary": "Montage, Inbetriebnahme und Modernisierung in Stahlwerk, Dünnbrammengießanlage und Warmbandstraße im Zuge der Erweiterung von SABA Steel, durchgeführt in Zusammenarbeit mit Danieli.",
       "facts": [
-        ["Unternehmen", "SAFA FOULAD Co., Iran"],
-        ["Position", "Maschinenbauingenieur / Leiter des Technischen Büros"],
-        ["Zeitraum der Position", "Apr. 2017 – 2026"],
-        ["Projektart", "EPC-Projekt"],
-        ["Partner", "Danieli"]
+        [
+          "Unternehmen",
+          "SAFA FOULAD Co., Iran"
+        ],
+        [
+          "Position",
+          "Maschinenbauingenieur / Leiter des Technischen Büros"
+        ],
+        [
+          "Zeitraum der Position",
+          "Apr. 2017 – 2026"
+        ],
+        [
+          "Projektart",
+          "EPC-Projekt"
+        ],
+        [
+          "Partner",
+          "Danieli"
+        ]
       ],
       "scope": [
         "Leitung von Modernisierungsprojekten in Stahlwerk, Dünnbrammengießanlage und Warmbandstraße.",
@@ -92,7 +161,12 @@
         "Dünnbrammengießanlage: Vorbereitung von Kokille und Segmenten, Montage von Oszillator und Verteilervorwärmer, Modernisierung und Einstellung des Banana-Frames.",
         "Warmbandstraße: Montage und Inbetriebnahme der Entzunderungspumpe; Erweiterung um das siebte Walzgerüst."
       ],
-      "chips": ["Stahlwerk", "Hydraulik", "Inbetriebnahme", "Modernisierung"],
+      "chips": [
+        "Stahlwerk",
+        "Hydraulik",
+        "Inbetriebnahme",
+        "Modernisierung"
+      ],
       "sections": []
     },
     "images": []
@@ -105,11 +179,26 @@
       "tag": "Soud Gostar Power Plants · CHARKH GARDOON Co.",
       "summary": "A special-purpose hydraulic crane designed and built to install power-plant motors and generators of approximately 40 tonnes each, cutting installation costs by more than half.",
       "facts": [
-        ["Company", "CHARKH GARDOON Co., Iran"],
-        ["Role", "Co-Founder / Mechanical Engineer"],
-        ["Role period", "Jan 2014 – Apr 2017"],
-        ["Project", "Soud Gostar Power Plants"],
-        ["Lifted load", "approx. 40 tonnes per unit"]
+        [
+          "Company",
+          "CHARKH GARDOON Co., Iran"
+        ],
+        [
+          "Role",
+          "Co-Founder / Mechanical Engineer"
+        ],
+        [
+          "Role period",
+          "Jan 2014 – Apr 2017"
+        ],
+        [
+          "Project",
+          "Soud Gostar Power Plants"
+        ],
+        [
+          "Lifted load",
+          "approx. 40 tonnes per unit"
+        ]
       ],
       "scope": [
         "Designed and constructed a special hydraulic crane for installation of power-plant motors and generators weighing approximately 40 tonnes each.",
@@ -117,7 +206,11 @@
         "Managed installation of approximately 1,000 tonnes of equipment and machinery.",
         "Assembly of hydraulic power units and cylinders."
       ],
-      "chips": ["Special-purpose machinery", "Heavy lift", "Hydraulics"],
+      "chips": [
+        "Special-purpose machinery",
+        "Heavy lift",
+        "Hydraulics"
+      ],
       "sections": []
     },
     "de": {
@@ -125,11 +218,26 @@
       "tag": "Kraftwerke Soud Gostar · CHARKH GARDOON Co.",
       "summary": "Ein hydraulischer Spezialkran, konstruiert und gebaut für die Montage von Kraftwerksmotoren und -generatoren mit je ca. 40 Tonnen Gewicht — die Montagekosten sanken um mehr als die Hälfte.",
       "facts": [
-        ["Unternehmen", "CHARKH GARDOON Co., Iran"],
-        ["Position", "Mitgründer / Maschinenbauingenieur"],
-        ["Zeitraum der Position", "Jan. 2014 – Apr. 2017"],
-        ["Projekt", "Kraftwerke Soud Gostar"],
-        ["Hublast", "ca. 40 Tonnen je Einheit"]
+        [
+          "Unternehmen",
+          "CHARKH GARDOON Co., Iran"
+        ],
+        [
+          "Position",
+          "Mitgründer / Maschinenbauingenieur"
+        ],
+        [
+          "Zeitraum der Position",
+          "Jan. 2014 – Apr. 2017"
+        ],
+        [
+          "Projekt",
+          "Kraftwerke Soud Gostar"
+        ],
+        [
+          "Hublast",
+          "ca. 40 Tonnen je Einheit"
+        ]
       ],
       "scope": [
         "Konstruktion und Bau eines hydraulischen Spezialkrans für die Montage von Kraftwerksmotoren und -generatoren mit je ca. 40 Tonnen Gewicht.",
@@ -137,7 +245,11 @@
         "Leitung der Montage von rund 1.000 Tonnen Ausrüstung und Maschinen.",
         "Montage von Hydraulikaggregaten und Zylindern."
       ],
-      "chips": ["Sondermaschinenbau", "Schwerlast", "Hydraulik"],
+      "chips": [
+        "Sondermaschinenbau",
+        "Schwerlast",
+        "Hydraulik"
+      ],
       "sections": []
     },
     "images": []
@@ -150,17 +262,33 @@
       "tag": "Steel Production Plant Clarifier · CHARKH GARDOON Co.",
       "summary": "An electro-hydraulic grab for the clarifier of a steel production plant, taken from mechanism and hydraulic circuit design through fabrication, inspection and assembly.",
       "facts": [
-        ["Company", "CHARKH GARDOON Co., Iran"],
-        ["Role", "Co-Founder / Mechanical Engineer"],
-        ["Role period", "Jan 2014 – Apr 2017"],
-        ["Application", "Steel production plant clarifier"]
+        [
+          "Company",
+          "CHARKH GARDOON Co., Iran"
+        ],
+        [
+          "Role",
+          "Co-Founder / Mechanical Engineer"
+        ],
+        [
+          "Role period",
+          "Jan 2014 – Apr 2017"
+        ],
+        [
+          "Application",
+          "Steel production plant clarifier"
+        ]
       ],
       "scope": [
         "Designed and fabricated the mechanical mechanism and hydraulic circuit.",
         "Checked and inspected machined components for quality compliance.",
         "Designed, constructed and assembled cable reel systems."
       ],
-      "chips": ["Mechanism design", "Hydraulic circuit", "Fabrication"],
+      "chips": [
+        "Mechanism design",
+        "Hydraulic circuit",
+        "Fabrication"
+      ],
       "sections": []
     },
     "de": {
@@ -168,20 +296,42 @@
       "tag": "Klärbecken eines Stahlwerks · CHARKH GARDOON Co.",
       "summary": "Ein elektrohydraulischer Greifer für das Klärbecken eines Stahlwerks — von der Konstruktion der Mechanik und des Hydraulikkreises über die Fertigung und Prüfung bis zur Montage.",
       "facts": [
-        ["Unternehmen", "CHARKH GARDOON Co., Iran"],
-        ["Position", "Mitgründer / Maschinenbauingenieur"],
-        ["Zeitraum der Position", "Jan. 2014 – Apr. 2017"],
-        ["Einsatzbereich", "Klärbecken eines Stahlwerks"]
+        [
+          "Unternehmen",
+          "CHARKH GARDOON Co., Iran"
+        ],
+        [
+          "Position",
+          "Mitgründer / Maschinenbauingenieur"
+        ],
+        [
+          "Zeitraum der Position",
+          "Jan. 2014 – Apr. 2017"
+        ],
+        [
+          "Einsatzbereich",
+          "Klärbecken eines Stahlwerks"
+        ]
       ],
       "scope": [
         "Konstruktion und Fertigung der Mechanik und des Hydraulikkreises.",
         "Prüfung bearbeiteter Bauteile auf Einhaltung der Qualitätsanforderungen.",
         "Konstruktion, Bau und Montage von Kabeltrommelsystemen."
       ],
-      "chips": ["Mechanikkonstruktion", "Hydraulikkreis", "Fertigung"],
+      "chips": [
+        "Mechanikkonstruktion",
+        "Hydraulikkreis",
+        "Fertigung"
+      ],
       "sections": []
     },
-    "images": []
+    "images": [
+      {
+        "file": "cable-reel.jpg",
+        "en": "Cable reel for the grab, after assembly and painting.",
+        "de": "Kabeltrommel für den Greifer nach Montage und Lackierung."
+      }
+    ]
   },
   {
     "slug": "oxygen-plants",
@@ -191,12 +341,30 @@
       "tag": "EPC Project · In association with Hangyang Co.",
       "summary": "Installation and commissioning of two 30,000 Nm³ oxygen plants in association with Hangyang Co., including heading the technical office for Cold Box erection and commissioning.",
       "facts": [
-        ["Company", "SAFA FOULAD Co., Iran"],
-        ["Role", "Mechanical Engineer"],
-        ["Role period", "Jan 2010 – Jan 2014"],
-        ["Project type", "EPC project"],
-        ["Partner", "Hangyang Co."],
-        ["Capacity", "2 × 30,000 Nm³"]
+        [
+          "Company",
+          "SAFA FOULAD Co., Iran"
+        ],
+        [
+          "Role",
+          "Mechanical Engineer"
+        ],
+        [
+          "Role period",
+          "Jan 2010 – Jan 2014"
+        ],
+        [
+          "Project type",
+          "EPC project"
+        ],
+        [
+          "Partner",
+          "Hangyang Co."
+        ],
+        [
+          "Capacity",
+          "2 × 30,000 Nm³"
+        ]
       ],
       "scope": [
         "Installation and commissioning of two 30,000 Nm³ oxygen plants.",
@@ -205,7 +373,11 @@
         "Conducted commissioning activities for Atlas Copco air compressors.",
         "Worked with international equipment suppliers including Hangyang, Atlas Copco and Ingersoll-Rand."
       ],
-      "chips": ["Air separation", "PDMS", "Commissioning"],
+      "chips": [
+        "Air separation",
+        "PDMS",
+        "Commissioning"
+      ],
       "sections": []
     },
     "de": {
@@ -213,12 +385,30 @@
       "tag": "EPC-Projekt · In Zusammenarbeit mit Hangyang Co.",
       "summary": "Montage und Inbetriebnahme von zwei Sauerstoffanlagen mit je 30.000 Nm³ in Zusammenarbeit mit Hangyang Co., einschließlich der Leitung des Technischen Büros für Montage und Inbetriebnahme der Coldbox.",
       "facts": [
-        ["Unternehmen", "SAFA FOULAD Co., Iran"],
-        ["Position", "Maschinenbauingenieur"],
-        ["Zeitraum der Position", "Jan. 2010 – Jan. 2014"],
-        ["Projektart", "EPC-Projekt"],
-        ["Partner", "Hangyang Co."],
-        ["Kapazität", "2 × 30.000 Nm³"]
+        [
+          "Unternehmen",
+          "SAFA FOULAD Co., Iran"
+        ],
+        [
+          "Position",
+          "Maschinenbauingenieur"
+        ],
+        [
+          "Zeitraum der Position",
+          "Jan. 2010 – Jan. 2014"
+        ],
+        [
+          "Projektart",
+          "EPC-Projekt"
+        ],
+        [
+          "Partner",
+          "Hangyang Co."
+        ],
+        [
+          "Kapazität",
+          "2 × 30.000 Nm³"
+        ]
       ],
       "scope": [
         "Montage und Inbetriebnahme von zwei Sauerstoffanlagen mit je 30.000 Nm³.",
@@ -227,7 +417,11 @@
         "Durchführung der Inbetriebnahme von Atlas-Copco-Luftkompressoren.",
         "Zusammenarbeit mit internationalen Lieferanten, darunter Hangyang, Atlas Copco und Ingersoll-Rand."
       ],
-      "chips": ["Luftzerlegung", "PDMS", "Inbetriebnahme"],
+      "chips": [
+        "Luftzerlegung",
+        "PDMS",
+        "Inbetriebnahme"
+      ],
       "sections": []
     },
     "images": []
