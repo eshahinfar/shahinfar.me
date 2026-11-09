@@ -4,6 +4,9 @@ Personal portfolio and résumé site for Ehsan Shahinfar — a static site with 
 
 - `index.html` — English content
 - `de/index.html` — German content (keep in sync with the English page)
+- `projects.json` + `build.py` — data and generator for the project pages
+  (`projects/<slug>/` and `de/projects/<slug>/`); run `python3 build.py` after editing
+- `projects/<slug>/images/` — pictures for a project; picked up automatically by `build.py`
 - `styles.css` — styling (light/dark themes, responsive, print-friendly)
 - `script.js` — theme toggle and navigation highlighting
 
